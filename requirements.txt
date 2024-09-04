@@ -5,7 +5,7 @@ sty
 graphviz
 shutils
 jinja2
-sklearn
+scikit-learn
 gitpython
 javalang
 apk2java
